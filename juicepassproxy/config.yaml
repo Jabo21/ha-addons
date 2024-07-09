@@ -19,6 +19,7 @@ options:
   juicebox_device_name: JuiceBox
   debug: false
   ignore_enelx: false
+  experimental: true
 schema:
   juicebox_host: str
   juicebox_device_name: str
